@@ -31,6 +31,6 @@ Sentiment.pbit: Interactive Power BI template.
 
 ## 📊 Dashboard Preview
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzk4OTZjN2EtZWZjNi00NGY2LWE1M2QtMmY0YTU1ZjZjM2ExIiwidCI6IjA3M2U1ODhkLTI4NmMtNDAwNS04ZmYwLWYyYWMzYzhlYTRkMyJ9)
->click the image above to see a preview of the final dashboard.
+>click the link above to see a preview of the final dashboard.
 
 #### 🧑‍💻Author: [Lawal-Jnr-Analyst](https://github.com/Lawal-Jnr-Analyst)
